@@ -15,6 +15,22 @@ class Employee(){
         $this->position = $position;
     }
 
+        public function getFirstName()
+    {
+
+    } 
+
+    public function getLastName()
+    {
+
+    }
+
+    public function getAge()
+    {
+
+}
+
+
 
 
 

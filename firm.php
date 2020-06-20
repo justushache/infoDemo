@@ -5,12 +5,23 @@ class firm(){
     private $worth;
     private $year_of_creation;
 
+
     __construct($name,$worth,$year_of_creation){
         $this->name = $name;
         $this->worth = $worth;
         $this->year_of_creation = $year_of_creation;
     }
-    
+
+     public function addEmployee()
+    {
+
+    }
+     public function rmEmployee()
+    {
+
+    }
+
+
 }
 
 ?>

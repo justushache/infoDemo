@@ -32,7 +32,7 @@ class Employee{
 
     public function getSalery()
     {
-        return $this->salary;
+        return $this->salery;
     }
 
     public function getPosition()
